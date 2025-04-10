@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueZoo.AppHost", "QueueZo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueZoo.ServiceDefaults", "QueueZoo.ServiceDefaults\QueueZoo.ServiceDefaults.csproj", "{8BA2B44C-B09C-7E58-814A-094CABD426A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceM2", "ServiceM2\ServiceM2.csproj", "{7BF26202-DB49-C57C-5BE8-ADCABC9E2242}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8BA2B44C-B09C-7E58-814A-094CABD426A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA2B44C-B09C-7E58-814A-094CABD426A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA2B44C-B09C-7E58-814A-094CABD426A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF26202-DB49-C57C-5BE8-ADCABC9E2242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF26202-DB49-C57C-5BE8-ADCABC9E2242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF26202-DB49-C57C-5BE8-ADCABC9E2242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF26202-DB49-C57C-5BE8-ADCABC9E2242}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
